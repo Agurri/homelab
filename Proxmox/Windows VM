@@ -1,0 +1,5 @@
+Passthru for the Optical Drive
+https://forum.proxmox.com/threads/a-simple-way-to-passthrough-an-internal-sata-dvd-burner-solved.47541/#post-224603
+
+If needed to mount external VM HDD to new VM
+https://www.reddit.com/r/Proxmox/comments/ektali/how_to_move_a_secondary_virtual_disk_from_one_vm/
